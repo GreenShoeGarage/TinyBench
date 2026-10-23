@@ -1,0 +1,32 @@
+{
+  "tensorflow": "2.20.0",
+  "bytes": 2368,
+  "quantization": "int8",
+  "input": {
+    "dtype": "int8",
+    "quantization": [
+      0.011977631598711014,
+      -5
+    ]
+  },
+  "output": {
+    "dtype": "int8",
+    "quantization": [
+      0.00390625,
+      -128
+    ]
+  },
+  "representativeTrainingWindows": 105,
+  "validationFixtureOutput": [
+    0.0,
+    0.99609375,
+    0.0
+  ],
+  "nativeFixtureOutput": [
+    0.00018133862257939536,
+    0.9997196283838957,
+    9.903299352487954e-05
+  ],
+  "maxAbsoluteFixtureDifference": 0.00362587838389572,
+  "physicalHardwareTested": false
+}

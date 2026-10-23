@@ -1,0 +1,30 @@
+[
+  {
+    "sketch": "imu",
+    "board": "arduino:mbed_nano:nano33ble",
+    "passed": true,
+    "report": "Sketch uses 116000 bytes (11%) of program storage space. Maximum is 983040 bytes.\nGlobal variables use 46640 bytes (17%) of dynamic memory, leaving 215504 bytes for local variables. Maximum is 262144 bytes.",
+    "error": ""
+  },
+  {
+    "sketch": "rev1",
+    "board": "arduino:mbed_nano:nano33ble",
+    "passed": true,
+    "report": "Sketch uses 95040 bytes (9%) of program storage space. Maximum is 983040 bytes.\nGlobal variables use 45976 bytes (17%) of dynamic memory, leaving 216168 bytes for local variables. Maximum is 262144 bytes.",
+    "error": ""
+  },
+  {
+    "sketch": "iot",
+    "board": "arduino:samd:nano_33_iot",
+    "passed": true,
+    "report": "Sketch uses 24792 bytes (9%) of program storage space. Maximum is 262144 bytes.\nGlobal variables use 4300 bytes (13%) of dynamic memory, leaving 28468 bytes for local variables. Maximum is 32768 bytes.",
+    "error": ""
+  },
+  {
+    "sketch": "analog",
+    "board": "arduino:samd:nano_33_iot",
+    "passed": true,
+    "report": "Sketch uses 12612 bytes (4%) of program storage space. Maximum is 262144 bytes.\nGlobal variables use 3616 bytes (11%) of dynamic memory, leaving 29152 bytes for local variables. Maximum is 32768 bytes.",
+    "error": ""
+  }
+]
